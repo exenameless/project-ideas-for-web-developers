@@ -1,4 +1,4 @@
-# project-ideas-for-web-developers
+# projects-ideas-for-web-developers
 
 _The_ go-to repo for fun, cool, unique web developer projects. 
 
